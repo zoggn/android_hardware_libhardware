@@ -417,7 +417,7 @@ typedef struct camera_info {
      */
     size_t conflicting_devices_length;
 
-} camera_info_t;
+} _camera_info_t;
 
 /**
  * camera_device_status_t:
